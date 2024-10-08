@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, 👋  I'm Jordan 
+  
+- 📚 Graduated from a Full Stack Engineering coding bootcamp, which is run by Athens University of Economics and Business.
+- 🌱 Currently working with Angular, TypeScript, DevExtreme, C# and using Ionic Framework for Mobile Development. 
+- 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
+- ⚡ Annual Planning: Make progress, be consistent, stay positive, and happy coding. 
 
-<!--
-**jordanpapaditsas/jordanpapaditsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">  
+  
+## 💻 Languages & Tools 
 
-Here are some ideas to get you started:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,cs,dotnet,nodejs,expressjs,bootstrap,mongo,mysql,docker,postman,webpack,linux,git" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">  
+
+## 📊 Activity
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jordanpapaditsas&theme=tokyonight)](https://git.io/streak-stats)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jordanpapaditsas&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jordanpapaditsas&theme=blueberry)  
+
+</div>
+  
+
