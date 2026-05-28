@@ -1,7 +1,7 @@
 ## Hello, 👋  I'm Jordan 
   
 - 📚 Graduated from a Software Engineering coding bootcamp, which is run by Athens University of Economics and Business.
-- 🌱 Currently working with Angular, TypeScript, DevExtreme, C# and using Ionic Framework for Mobile Development. 
+- 🌱 Currently working with Angular, TypeScript, DevExtreme, C#, SQL and using Ionic Framework for Mobile Development. 
 - 📫 Reach me out with [Linkedin](https://www.linkedin.com/in/ipapaditsas/).
 - ⚡ Annual Planning: Make progress, be consistent, stay positive, and happy coding. 
 
